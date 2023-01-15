@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mehmetakyurek/components/issues"
   },
-  "homepage": "https://github.com/mehmetakyurek/components#readme"
+  "homepage": "https://github.com/mehmetakyurek/components#readme",
+  "publishConfig": {
+    "@mehmetakyure:registry": "https://npm.pkg.github.com"
+  }
 }
